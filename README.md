@@ -1,3 +1,4 @@
 # first
-This my git repository
+This my git repository.
+<br>
 Author - Ruby
